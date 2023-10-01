@@ -1,5 +1,5 @@
-<a href="https://www.iicoom.fun" target="_blank">
-  <img src="https://img-blog.csdnimg.cn/e8a7d3c9441a447da3084633455a78cc.jpeg#pic_center" alt="blog image"/>
+<a href="https://www.iicoom.fun" target="_blank" style="text-aligh:center">
+  <img src="https://img-blog.csdnimg.cn/e8a7d3c9441a447da3084633455a78cc.jpeg" alt="blog image" style="width: 300px"/>
 </a>
 
 
