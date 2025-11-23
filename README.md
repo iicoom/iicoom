@@ -1,5 +1,5 @@
 <div style="text-aligh:center">
-  <a href="https://www.iicoom.fun" target="_blank">
+  <a href="https://www.dianlvtong.xyz" target="_blank">
     <img src="https://img-blog.csdnimg.cn/e8a7d3c9441a447da3084633455a78cc.jpeg" alt="blog image" style="width: 300px"/>
   </a>
 </div>
