@@ -9,6 +9,3 @@
 
 ![iicoom's GitHub stats](https://github-readme-stats.vercel.app/api?username=iicoom&show_icons=true&theme=tokyonight)
 
-<p>主页访问量</br></p>
-
-![Visitor Count](https://profile-counter.glitch.me/iicoom/count.svg)
